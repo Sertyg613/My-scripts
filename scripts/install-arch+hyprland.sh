@@ -60,7 +60,7 @@ flat=("com.heroicgameslauncher.hgl com.valvesoftware.Steam com.visualstudio.code
 
 packs=("hyprland firefox gnome-text-editor gnome-disk-utility nautilus 
 	alacritty htop telegram-desktop adwaita-icon-theme 
-	adwaita-fonts waybar")
+	adwaita-fonts waybar discord")
 ####################################################################
 
 sleep 1
