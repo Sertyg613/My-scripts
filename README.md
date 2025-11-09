@@ -7,3 +7,5 @@ cd ~/My-scripts/scripts/script_for_archinstall/
 chmod +x arch_install.sh
 
 ./arch_install.sh
+
+(ВСЁ ОСТАЛЬНОЕ НЕ ДОДЕЛАНО!!!)
